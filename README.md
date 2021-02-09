@@ -1,5 +1,5 @@
 <h2> Hi, I'm Luis! <img src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="230">
 <p><em>Computer Systems Enginner at <a href="https://www.escom.ipn.mx/">ESCOM - IPN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Senior Front-end Developer at <a href="https://cargamos.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
