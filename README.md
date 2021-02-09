@@ -8,7 +8,7 @@
 [![GitHub Luismvp10](https://img.shields.io/github/followers/Luismvp10?label=follow&style=social)](https://github.com/Luismvp10)
 
 
-### <img src="http://gph.is/1a9R2mA" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const me = {
