@@ -1,6 +1,6 @@
 <h2> Hi, I'm Luis! <img src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="230">
-<p><em>Computer Systems Enginner at <a href="https://www.escom.ipn.mx/">ESCOM - IPN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Senior Front-end Developer at <a href="https://cargamos.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Systems Enginner at <a href="https://www.escom.ipn.mx/">ESCOM - IPN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Senior Front-end Developer at <a href="https://cargamos.com/">Cargamos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: @luis_mvp_](https://img.shields.io/twitter/follow/luis_mvp_?style=social)](https://twitter.com/luis_mvp_)
