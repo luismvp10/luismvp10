@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hi, I'm Luis! <img src="https://media.giphy.com/media/GRfl6U6KOZXWg/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Computer Systems Enginner at <a href="https://www.escom.ipn.mx/">ESCOM - IPN</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Senior Front-end Developer at <a href="https://cargamos.com/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**luismvp10/luismvp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: @luis_mvp_](https://img.shields.io/twitter/follow/luis_mvp_?style=social)](https://twitter.com/luis_mvp_)
+[![Linkedin: luismvp](https://img.shields.io/badge/-luismvp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismvp/)](https://www.linkedin.com/in/luismvp/)
+[![GitHub Luismvp10](https://img.shields.io/github/followers/Luismvp10?label=follow&style=social)](https://github.com/Luismvp10)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const me = {
+  
+  code: [Javascript, Typescript, C, C++, Java, PHP, Python],
+  tools: [Angular, Vue, Vuex,  Node, Laravel, Django, Flask],
+  db: ['firestore','MongoDB', 'Mysql', 'SQLserver'],
+
+
+}
+```
+
+
+---
