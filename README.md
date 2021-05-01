@@ -13,7 +13,7 @@
 ```javascript
 const me = {
   
-  code: [Javascript, Typescript, C, C++, Java, PHP, Python],
+  code: [Javascript, Typescript, C, C++, Java, PHP, Python, Go],
   tools: [Angular, Vue, Vuex,  Node, Laravel, Django, Flask],
   db: ['firestore','MongoDB', 'Mysql', 'SQLserver'],
 
