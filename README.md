@@ -11,14 +11,13 @@
 ### <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const me = {
+const skills = {
   
-  code: [Javascript, Typescript, C, C++, Java, PHP, Python, Go],
-  tools: [Angular, Vue, Vuex,  Node, Laravel, Django, Flask],
-  db: ['firestore','MongoDB', 'Mysql', 'SQLserver'],
+  frontend: ['Javascript', 'Typescript', 'Angular', 'Vue', 'Vuex', 'RXJS', 'React', 'Ionic', 'Stencil JS', 'Gastby', 'SASS' ],
+  backend: ['NodeJS', 'Express','PHP', 'Laravel', 'CakePHP', 'Laravel', 'Python', 'Django', 'Flask', 'Golang'],
+  databases: ['Mysql', 'SQL Server','firestore','MongoDB', 'SQLite', 'PostgreSQL'],
 
-
-}
+};
 ```
 
 
