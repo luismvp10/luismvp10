@@ -15,9 +15,9 @@ const skills = {
   
   frontend: [ 'Javascript', 'Typescript', 'Angular', 'Vue', 'Vuex', 'NextJS', 'RXJS', 'React', 'Ionic',
              'Stencil JS', 'Gastby', 'SASS',  ],
-  backend: [ 'NodeJS', 'Express','PHP', 'Laravel', 'CakePHP', 'Laravel', 'Python', 'Django',
+  backend: [ 'NodeJS', 'Express','PHP', 'Laravel', 'CakePHP', 'Python', 'Django',
             'Flask', 'Golang'],
-  databases: [ 'Mysql', 'SQL Server', 'firestore', 'MongoDB', 'SQLite', 'PostgreSQL'],
+  databases: [ 'Mysql', 'SQL Server', 'Firestore', 'MongoDB', 'SQLite', 'PostgreSQL'],
 
 };
 ```
