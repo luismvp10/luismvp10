@@ -13,8 +13,8 @@
 ```javascript
 const skills = {
   
-  frontend: [ 'Javascript', 'Typescript', 'Angular', 'Vue', 'Vuex', 'RXJS', 'React', 'Ionic',
-             'Stencil JS', 'Gastby', 'SASS' ],
+  frontend: [ 'Javascript', 'Typescript', 'Angular', 'Vue', 'Vuex', 'NextJS', 'RXJS', 'React', 'Ionic',
+             'Stencil JS', 'Gastby', 'SASS',  ],
   backend: [ 'NodeJS', 'Express','PHP', 'Laravel', 'CakePHP', 'Laravel', 'Python', 'Django',
             'Flask', 'Golang'],
   databases: [ 'Mysql', 'SQL Server', 'firestore', 'MongoDB', 'SQLite', 'PostgreSQL'],
